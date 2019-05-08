@@ -1,0 +1,11 @@
+.nav-link {
+    color: white;
+}
+
+.nav-link.active {
+    color: steelblue;
+}
+
+.smalllogo {
+    width: 40px;
+}
