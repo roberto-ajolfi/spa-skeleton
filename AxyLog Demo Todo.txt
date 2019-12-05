@@ -1,0 +1,21 @@
+GIT Repo x esercizio di oggi
+----------
+https://github.com/roberto-ajolfi/spa-skeleton.git
+
+TODO
+----
+- aggiungere la list view con l'elenco dei Tickets
+	- Open New Ticket (button)
+	- Edit / Delete del singolo Ticket
+	
+- aggiungere la form di inserimento nuovo Ticket
+
+- aggiungere la form di modifica di un Ticket esistente
+
+- aggiungere la cancellazione di un Ticket
+
+- tutte le funzionalità dovranno utilizzare un servizio che implementa le funzionalità CRUD (GET, POST, PUT, DELETE)comunicando con le REST API disponibili all'URL:
+	https://icticketing.azurewebsites.net/api/ticketanon
+
+- EXTRA: modificare il servizio per utilizzare la Basic Authentication. Usare le REST API all'URL:
+	https://icticketing.azurewebsites.net/api/ticket
